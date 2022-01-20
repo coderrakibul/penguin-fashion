@@ -1,11 +1,12 @@
 .our-color {
   color: orange;
 }
-.background-color {
+.our-bg-color {
   background-color: #f8eef0;
 }
-.height{
-    height:100vh;
+
+.height {
+  height: 100vh;
 }
 .buy-now-button {
   background-color: #90aa28;
@@ -17,6 +18,3 @@
   font-size: 10px;
 }
 
-.minimum-width {
-  width: 300px;
-}
